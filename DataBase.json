@@ -1,0 +1,552 @@
+{
+  "comedy": [
+    {
+      "id": 1,
+      "name": "Sherlock Jr.",
+      "year": 1924,
+      "image": "https://opis-cdn.tinkoffjournal.ru/mercury/best-comedies-ever_01.ipskasmqmehn..jpg?preset=image_570w_2x",
+      "description": "Обычный киномеханик мечтает стать великим сыщиком, но вместо этого оказывается на месте подозреваемого - его выставляют виновным в краже часов. Чтобы восстановить репутацию, мужчина сам расследует дело.",
+      "url": "https://hdrezka.ag/films/comedy/39927-sherlok-mladshiy-1924.html",
+      "tags": ["хочу смеяться", "шерлок"]
+    },
+    {
+      "id": 2,
+      "name": "The Great Dictator",
+      "year": 1940,
+      "image": "https://opis-cdn.tinkoffjournal.ru/mercury/best-comedies-ever_02.ghxmjku3j5kt..jpg?preset=image_570w_2x",
+      "description": "Еврейский цирюльник и участник Первой мировой войны выходит из больницы. В то же время на его родине, несуществующей стране Томании, к власти приходит диктатор Аденоид Хинкель, который жуть как похож на главного героя.",
+      "url": "https://hdrezka.ag/films/military/1254-velikiy-diktator-1940.html",
+      "tags": ["хочу смеяться"]
+    },
+    {
+      "id": 3,
+      "name": "Some Like It Hot",
+      "year": 1959,
+      "image": "https://opis-cdn.tinkoffjournal.ru/mercury/best-comedies-ever_03.8jswxlvr73dp..jpg?preset=image_570w_2x",
+      "description": "Саксофонист Джо и контрабасист Джерри становятся свидетелями убийства информатора ФБР гангстерами. Чтобы скрыться от бандитов, музыканты уезжают во Флориду и переодеваются в девушек - Джозефину и Дафну. В поезде они знакомятся с солисткой оркестра Даной Ковальчик, которая мечтает встретить на юге миллионера и выйти за него замуж.",
+      "url": "https://hdrezka.ag/films/melodrama/1186-v-dzhaze-tolko-devushki-1959.html",
+      "tags": ["хочу смеяться"]
+    },
+    {
+      "id": 4,
+      "name": "The Graduate",
+      "year": 1967,
+      "image": "https://opis-cdn.tinkoffjournal.ru/mercury/best-comedies-ever_04.zeuwrzgmvj3v..jpg?preset=image_570w_2x",
+      "description": "Бакалавр Бенджамин Брэддок возвращается в родительский дом. Там он заводит роман с женой одного из коллег отца Миссис Робинсон, а позже влюбляется в ее дочь - Элейн.",
+      "url": "https://hdrezka.ag/films/drama/4392-vypusknik-1967.html",
+      "tags": ["хочу смеяться"]
+    },
+    {
+      "id": 5,
+      "name": "Иван Васильевич меняет профессию",
+      "year": 1973,
+      "image": "https://opis-cdn.tinkoffjournal.ru/mercury/best-comedies-ever_05.q9t77mwwefd3..jpg?preset=image_570w_2x",
+      "description": "Инженер Александр Тимофеев изобретает машину времени. Устройство открывает портал из его квартиры в палаты Ивана Грозного. В результате управдом Иван Васильевич Бунша попадает в 16 век, а царь Иван Васильевич Грозный - в Москву 1970-х.",
+      "url": "https://hdrezka.ag/films/adventures/1333-ivan-vasilevich-menyaet-professiyu-1973.html",
+      "tags": ["хочу смеяться"]
+    },
+    {
+      "id": 6,
+      "name": "Monty Python and the Holy Grail",
+      "year": 1975,
+      "image": "https://opis-cdn.tinkoffjournal.ru/mercury/best-comedies-ever_06.cqybfji4spr5..jpg?preset=image_570w_2x",
+      "description": "Король Артур и рыцари Круглого стола отправляются на поиски Священного Грааля. Во время путешествия они сталкиваются с опасным кроликом, крестьянами анархо-синдикалистами, Черным рыцарем и британской полицией.",
+      "url": "https://hdrezka.ag/films/adventures/6439-monti-payton-i-svyaschennyy-graal-1975.html",
+      "tags": ["хочу смеяться"]
+    },
+    {
+      "id": 7,
+      "name": "Annie Hall",
+      "year": 1975,
+      "image": "https://opis-cdn.tinkoffjournal.ru/mercury/best-comedies-ever_07.mndpj4eogmya..jpg?preset=image_570w_2x",
+      "description": "Невротичный комик Элви Сингер рассказывает о своей жизни и пытается понять, почему закончились его отношения с девушкой по имени Энни Холл.",
+      "url": "https://hdrezka.ag/films/drama/7249-enni-holl-1977.html",
+      "tags": ["хочу смеяться"]
+    },
+    {
+      "id": 8,
+      "name": "Мимино",
+      "year": 1977,
+      "image": "https://opis-cdn.tinkoffjournal.ru/mercury/best-comedies-ever_08.ccssm2bdlpbt..jpg?preset=image_570w_2x",
+      "description": "Валико «Мимино» Мизандари покидает родные грузинские горы и отправляется в Москву, чтобы стать пилотом гражданской авиации. В гостиничном номере он встречает армянского водителя Рубена Хачикяна - его ошибочно приняли за профессора эндокринологи.",
+      "url": "https://hdrezka.ag/films/comedy/8074-mimino-1977.html",
+      "tags": ["хочу смеяться"]
+    },
+    {
+      "id": 9,
+      "name": "Coming to America",
+      "year": 1988,
+      "image": "https://opis-cdn.tinkoffjournal.ru/mercury/best-comedies-ever_09.cojpv4fduf2b..jpg?preset=image_570w_2x",
+      "description": "Наследный принц вымышленного королевства Замунда по имени Аким отправляется в Америку на поиски будущей жены. Проблема в том, что потенциальная возлюбленная не должна знать о происхождении супруга. Оказавшись в Штатах, монарх устраивается в закусочную McDowell’s и влюбляется в дочь начальника.",
+      "url": "https://hdrezka.ag/films/drama/6633-poezdka-v-ameriku-1988.html",
+      "tags": ["хочу смеяться"]
+    },
+    {
+      "id": 10,
+      "name": "Голый пистолет",
+      "year": 1988,
+      "image": "https://www.imfdb.org/images/thumb/c/cb/NGColtDetectiveSpecial-1.jpg/600px-NGColtDetectiveSpecial-1.jpg",
+      "description": "Не успел главный герой Фрэнк Дребин вернуться после выполнения очень опасного задания на Ближнем Востоке, как узнает сразу несколько далеко неприятных новостей. Во первых, его бросила жена, а во вторых напарник и друг Фрэнка находится в больнице с пулевым ранением, которое он получил в ходе расследования дела, связанного с наркотиками. Дребину не остается ничего другого, как взяться за то самое дело.",
+      "url": "https://hdrezka.ag/films/comedy/1469-golyy-pistolet-1988.html",
+      "tags": ["хочу смеяться", "личная рекомендация"]
+    },
+    {
+      "id": 11,
+      "name": "Home Alone",
+      "year": 1990,
+      "image": "https://opis-cdn.tinkoffjournal.ru/mercury/best-comedies-ever_10.nxqznpn0naa6..jpg?preset=image_570w_2x",
+      "description": "Многодетная семья МакКалистеров улетает на Рождество в Париж без восьмилетнего сына Кевина - забыли про него в суматохе. Мальчик остается один в пустом доме и начинает наслаждаться жизнью без контроля родителей. Однако в этот дом задумали проникнуть грабители.",
+      "url": "https://hdrezka.ag/films/comedy/833-odin-doma-1990.html",
+      "tags": ["хочу смеяться"]
+    },
+    {
+      "id": 12,
+      "name": "Night on Earth",
+      "year": 1991,
+      "image": "https://opis-cdn.tinkoffjournal.ru/mercury/best-comedies-ever_11.undn4w7wbsiz..jpg?preset=image_570w_2x",
+      "description": "В Лос-Анджелесе, Нью-Йорке, Париже, Риме и Хельсинки водители такси разговаривают со своими пассажирами. Таксистка Корки подвозит агента по подбору актеров. Немецкий эмигрант Хельмут не знает город, поэтому за руль садится его пассажир Йо-Йо. Выходец из Кот-д’Ивуара общается с незрячей пассажиркой. Гиперактивный водитель-итальянец исповедуется священнику. А финн Мика везет компанию выпивших друзей и рассказывает свою грустную историю жизни.",
+      "url": "https://hdrezka.ag/films/drama/6473-noch-na-zemle-1991.html",
+      "tags": ["хочу смеяться"]
+    },
+    {
+      "id": 13,
+      "name": "Голый пистолет 2",
+      "year": 1991,
+      "image": "https://image.tmdb.org/t/p/w780/fdIHRHVfP71BN42YJbklHUdzD1J.jpg",
+      "description": "Сюжет продолжает рассказывать о приключениях одного из лучших и гениальнейших детективов всех времен и народов - лейтенанта Фрэнка Дребина. Однажды, чтобы почтить его за все заслуги перед страной, Фрэнка приглашают на званый ужин к самому президенту Америки. Так же на мероприятие приглашают много других важных персон, связанных с энергодобывающей промышленностью, не очень хорошо воздействующей на окружающую среду. Для них торжественный обед заканчивается не очень приятными новостями о том, что президент намерен в дальнейшем в вопросах развития отрасли энергетики прислушиваться к рьяному защитнику всего зеленого - доктору Альберту Мейнсхеймеру, занимающемся строительством экологически чистой электростанции для Лос-Анджелеса.",
+      "url": "https://hdrezka.ag/films/action/1470-golyy-pistolet-2-1-1991.html",
+      "tags": ["хочу смеяться", "личная рекомендация"]
+    },
+    {
+      "id": 14,
+      "name": "Groundhog Day",
+      "year": 1993,
+      "image": "https://opis-cdn.tinkoffjournal.ru/mercury/best-comedies-ever_12.d9zvfbvx3hav..jpg?preset=image_570w_2x",
+      "description": "Телеведущий Фил Коннорс недоволен своей работой и жизнью. Однажды его команда проводит эфир из Панксатони - города, где живет знаменитый сурок. По поведению животного местные жители предсказывают наступление весны. После репортажа Фил идет в номер гостиницы и засыпает. Утром он понимает, что попал во временную петлю.",
+      "url": "https://hdrezka.ag/films/fantasy/1283-den-surka-1993.html",
+      "tags": ["хочу смеяться"]
+    },
+    {
+      "id": 15,
+      "name": "Clerks",
+      "year": 1994,
+      "image": "https://opis-cdn.tinkoffjournal.ru/mercury/best-comedies-ever_13.svyktr5ymfhc..jpg?preset=image_570w_2x",
+      "description": "Один день из жизни обитателей Нью-Джерси: продавца из супермаркета Данте, его девушки Вероники, сотрудника видеопроката Рэндала, бездельников Джея и Боба, а также простых покупателей.",
+      "url": "https://hdrezka.ag/films/comedy/3902-klerki-1994.html",
+      "tags": ["хочу смеяться"]
+    },
+    {
+      "id": 16,
+      "name": "Chung Hing sam lam",
+      "year": 1994,
+      "image": "https://opis-cdn.tinkoffjournal.ru/mercury/best-comedies-ever_14.vfbjlwefpna9..jpg?preset=image_570w_2x",
+      "description": "Гонконгский район Чимсачей патрулируют полицейские № 223 и № 663. Обоих бросили девушки, и оба не хотят это принимать. Первый уже месяц покупает в магазинах любимые консервированные ананасы для возлюбленной, а второй отказывается открывать прощальное письмо бросившей его стюардессы: в нем она объяснила свое непростое решение.",
+      "url": "https://hdrezka.ag/films/drama/7590-chungkingskiy-ekspress-1994.html",
+      "tags": ["хочу смеяться"]
+    },
+    {
+      "id": 17,
+      "name": "Голый пистолет 3",
+      "year": 1994,
+      "image": "https://cdn2.red-media.ru/wp-content/uploads/2019/09/golyj-pistolet-33-1-3-poslednij-vypad.jpg",
+      "description": "Главный герой фильма Фрэнк Дребин завязал с опасной работой в полиции и вышел на пенсию, чтобы прожить остаток жизни в мире и спокойствии со своей любимой женой. Вот только прошлое не хочет отпускать Фрэнка, и вскоре его спокойной и размеренной жизни приходит конец. Над страной нависает очередная угроза в лице одного из известнейших террористов подрывников во всем мире Рокко, который получает очень заманчивое предложение - за пять миллионов долларов провести теракт на территории США. Фрэнку не остается ничего другого как снова вступить в игру, потому что он единственный, кто может предотвратить надвигающуюся беду.",
+      "url": "https://hdrezka.ag/films/action/1471-golyy-pistolet-33-1-1994.html",
+      "tags": ["хочу смеяться", "личная рекомендация"]
+    },
+    {
+      "id": 18,
+      "name": "Friday",
+      "year": 1995,
+      "image": "https://opis-cdn.tinkoffjournal.ru/mercury/best-comedies-ever_15.5gbfoznaaag0..jpg?preset=image_570w_2x",
+      "description": "Работягу Крейга Джонса увольняют в выходной. Вместе с другом Смоки он употребляет наркотические вещества, которые принадлежат дилеру Большому Червю. Когда это вскрывается, торговец угрожает парочке: если они не принесут 200 долларов к концу дня, их убьют.",
+      "url": "https://hdrezka.ag/films/comedy/5719-pyatnica-1995.html",
+      "tags": ["хочу смеяться"]
+    },
+    {
+      "id": 19,
+      "name": "The Big Lebowski",
+      "year": 1998,
+      "image": "https://opis-cdn.tinkoffjournal.ru/mercury/best-comedies-ever_18.p4rpfeflird1..jpg?preset=image_570w_2x",
+      "description": "Однажды в дом Джеффа «Чувака» Лебовски вламываются гангстеры. Они принимают героя за миллионера-однофамильца, угрозами требуют вернуть долг и портят ковер. Настоящий миллионер Лебовски отказывается компенсировать потери Чувака, но просит об одолжении - передать выкуп похитителям его жены.",
+      "url": "https://hdrezka.ag/films/comedy/4322-bolshoy-lebovski-1998.html",
+      "tags": ["хочу смеяться"]
+    },
+    {
+      "id": 20,
+      "name": "The Truman Show",
+      "year": 1998,
+      "image": "https://opis-cdn.tinkoffjournal.ru/mercury/best-comedies-ever_19.aiaivadfsmgb..jpg?preset=image_570w_2x",
+      "description": "Дружелюбный страховой агент Труман Бербенк вдруг понимает, что вся его жизнь - реалити-шоу. Люди вокруг - нанятые актеры, а город, где он живет - всего лишь декорация. Труман ищет путь на свободу.",
+      "url": "https://hdrezka.ag/films/drama/775-shou-trumana-1998.html",
+      "tags": ["хочу смеяться"]
+    }
+  ],
+
+
+  "horror": [
+    {
+      "id": 1,
+      "name": "Das Cabinet des Dr. Caligari",
+      "year": 1920,
+      "image": "https://opis-cdn.tinkoffjournal.ru/mercury/01-best-horror-movies.i7belzylf0iz..jpg?preset=image_570w_2x",
+      "description": "В небольшом городе Хостенвилле проходит ежегодная ярмарка. Доктор Калигари ставит на площади аттракцион: он демонстрирует Чезаре - человека, который спит уже 23 года и знает ответы на все вопросы.",
+      "url": "https://hdrezka.ag/films/detective/20693-kabinet-doktora-kaligari-1920.html",
+      "tags": ["хочу кричать"]
+    },
+    {
+      "id": 2,
+      "name": "Nosferatu, eine Symphonie des Grauens",
+      "year": 1922,
+      "image": "https://opis-cdn.tinkoffjournal.ru/mercury/02-best-horror-movies.54x0oybga4qd..jpg?preset=image_570w_2x",
+      "description": "Начало 19 века. Агент по недвижимости Томас Хуттер отправляется в Трансильванию, чтобы договориться о продаже дома графу Орлоку. Уже в Румынии агент по недвижимости слышит множество странных сплетен о клиенте. Несмотря на это, Томас подписывает с ним договор. А уже ночью Орлок неожиданно уезжает - оказывается, он хочет выпить кровь супруги главного героя.",
+      "url": "https://hdrezka.ag/films/horror/12170-nosferatu-simfoniya-uzhasa-1922.html",
+      "tags": ["хочу кричать"]
+    },
+    {
+      "id": 3,
+      "name": "Kurutta ippêji",
+      "year": 1926,
+      "image": "https://opis-cdn.tinkoffjournal.ru/mercury/03-best-horror-movies.zapsgcbolg93..jpg?preset=image_570w_2x",
+      "description": "Бывший моряк устраивается уборщиком в психбольницу, чтобы быть ближе к жене-пациентке. Дочь приходит навестить родителей и сообщает о помолвке. Отец предупреждает, что семья жениха может отменить свадьбу, если узнает о болезни матери.",
+      "url": "https://hdrezka.ag/films/drama/67926-stranica-bezumiya-1926.html",
+      "tags": ["хочу кричать"]
+    },
+    {
+      "id": 4,
+      "name": "Dracula",
+      "year": 1931,
+      "image": "https://opis-cdn.tinkoffjournal.ru/mercury/04-best-horror-movies.ju3nc1tfaao8..jpg?preset=image_570w_2x",
+      "description": "Агент по недвижимости Ренфилд приезжает в Трансильванию, чтобы подписать с загадочным графом Дракулой договор о покупке лондонского аббатства. После заключения сделки герой выясняет, что его клиент - вампир.",
+      "url": "https://hdrezka.ag/films/horror/14340-drakula-1931.html",
+      "tags": ["хочу кричать"]
+    },
+    {
+      "id": 5,
+      "name": "Freaks",
+      "year": 1932,
+      "image": "https://opis-cdn.tinkoffjournal.ru/mercury/05-best-horror-movies.ylu5ex3qca6j..jpg?preset=image_570w_2x",
+      "description": "Действие разворачивается в бродячем цирке. Красавица-акробатка Клеопатра решает заполучить наследство мужчины с дварфизмом по имени Ганс и манипулирует им.",
+      "url": "https://hdrezka.ag/films/horror/47140-urodcy-1932.html",
+      "tags": ["хочу кричать"]
+    },
+    {
+      "id": 6,
+      "name": "Gojira",
+      "year": 1954,
+      "image": "https://opis-cdn.tinkoffjournal.ru/mercury/06-best-horror-movies.dq46csvtuwku..jpg?preset=image_570w_2x",
+      "description": "В море у японского острова Одо пропадают корабли и рыба. Местные жители винят в этом Годзиллу - древнего монстра. Вскоре чудовище выходит на сушу и разрушает деревни и города, а армия не может его остановить. Единственной надеждой японцев оказывается опасное оружие «Уничтожитель кислорода».",
+      "url": "https://hdrezka.ag/films/horror/13068-godzilla-1954.html",
+      "tags": ["хочу кричать"]
+    },
+    {
+      "id": 7,
+      "name": "Night of the Hunter",
+      "year": 1955,
+      "image": "https://opis-cdn.tinkoffjournal.ru/mercury/07-best-horror-movies.o28w1cw6lhxv..jpg?preset=image_570w_2x",
+      "description": "Брат и сестра Джон и Перл Харперы потеряли отца - его повесили за убийство двух людей и ограбление банка. Вскоре домой к героям приходит мужчина, который представляется как проповедник Гарри Пауэлл. На самом деле он - серийный убийца. Пауэлл сидел в одной камере с отцом главных героев за угон автомобиля и узнал, что тот спрятал похищенные деньги дома.",
+      "url": "https://hdrezka.ag/films/thriller/52690-noch-ohotnika-1955.html",
+      "tags": ["хочу кричать"]
+    },
+    {
+      "id": 8,
+      "name": "Psycho",
+      "year": 1960,
+      "image": "https://opis-cdn.tinkoffjournal.ru/mercury/08-best-horror-movies.cnnitfkqs2vv..jpg?preset=image_570w_2x",
+      "description": "Секретарша Мэрион Крэйн ворует у начальника из офиса крупную сумму и уезжает из города. Она хочет начать с возлюбленным новую жизнь в другом месте. Преступница останавливается на ночь в жутковатом мотеле. Им управляет молодой мужчина по имени Норман Бейтс, которого опекает деспотичная мать. До утра Мэрион не доживет.",
+      "url": "https://hdrezka.ag/films/detective/1352-psiho-1960.html",
+      "tags": ["хочу кричать"]
+    },
+    {
+      "id": 9,
+      "name": "Kaidan",
+      "year": 1964,
+      "image": "https://opis-cdn.tinkoffjournal.ru/mercury/09-best-horror-movies.teh6tafcdqaf..jpg?preset=image_570w_2x",
+      "description": "Четыре истории, основанные на японских мистических рассказах. «Черные волосы» - о самурае, ушедшем от жены в поисках лучшей жизни. «Снежная женщина» - о красивом молодом лесорубе, который встречает в метели женщину-призрака. Призрак щадит героя, но берет с него обещание никогда и никому о ней не рассказывать. В «Рассказе о безухом Хойти» к слепому музыканту приходят духи погибших самураев. А «В чашке чая» воин видит в своей кружке отражение незнакомого человека.",
+      "url": "https://hdrezka.ag/films/horror/16772-kvaydan-povestvovanie-o-zagadochnom-i-uzhasnom-1964.html",
+      "tags": ["хочу кричать"]
+    },
+    {
+      "id": 10,
+      "name": "Вий",
+      "year": 1967,
+      "image": "https://opis-cdn.tinkoffjournal.ru/mercury/10-best-horror-movies.sqdt9cxtq2uo..jpg?preset=image_570w_2x",
+      "description": "Студент-бурсак Хома получает задание от ректора - парень должен отпеть недавно погибшую дочь известного сотника. Проблема в том, что, по слухам, та была ведьмой. Более того, Хома считает, что именно он ее убил. Парню нужно три дня читать Псалтырь в церкви над трупом девушки. Но задание оказывается непростым: ведьма по ночам встает из гроба, а вокруг появляются другие потусторонние существа.",
+      "url": "https://hdrezka.ag/films/horror/16712-viy-1967.html",
+      "tags": ["хочу кричать"]
+    },
+    {
+      "id": 11,
+      "name": "Rosemary’s Baby",
+      "year": 1968,
+      "image": "https://opis-cdn.tinkoffjournal.ru/mercury/11-best-horror-movies.xxwjrfa7j6kd..jpg?preset=image_570w_2x",
+      "description": "Театральный актер Гай и его жена-домохозяйка Розмари переезжают в красивый многоквартирный дом в центре Нью-Йорка. Друг семьи предупреждает, что у здания темное прошлое. Поговаривают, что в нем обитают колдуны. К тому же в стенах дома якобы произошло немало убийств. Гая и Розмари навещают пожилые соседи Роман и Минни. Вскоре Розмари беременеет при таинственных обстоятельствах, а карьера Гая неожиданно идет резко вверх. К еще не родившемуся ребенку проявляют нездоровый интерес обитатели дома.",
+      "url": "https://hdrezka.ag/films/drama/5063-rebenok-rozmari-1968.html",
+      "tags": ["хочу кричать"]
+    },
+    {
+      "id": 12,
+      "name": "The Exorcist",
+      "year": 1973,
+      "image": "https://opis-cdn.tinkoffjournal.ru/mercury/12-best-horror-movies.f1wc68i7jq9v..jpg?preset=image_570w_2x",
+      "description": "Дочь актрисы Крис МакНил ведет себя странно. Поначалу кажется, что девочка просто заболела, но потом ребенок начинает ругаться, говорить на неизвестных языках и даже левитировать. Священник предполагает, что в девочку вселился демон, и проводит обряд экзорцизма вместе с коллегой.",
+      "url": "https://hdrezka.ag/films/drama/6355-izgonyayuschiy-dyavola-1973.html",
+      "tags": ["хочу кричать"]
+    },
+    {
+      "id": 13,
+      "name": "Don’t Look Now",
+      "year": 1973,
+      "image": "https://opis-cdn.tinkoffjournal.ru/mercury/13-best-horror-movies.yq7da61ka8ix..jpg?preset=image_570w_2x",
+      "description": "Молодая семья Джона и Лоры Бакстер теряет ребенка. Их дочь тонет, играя у пруда. Супруги отправляются в Венецию - Джон принимает предложение о реставрации церкви Сан-Николо-деи-Мендиколи. В Италии Бакстеры встречают странных сестер: одна из них утверждает, что видит духов. По словам сестер, призрак погибшей дочери находится рядом с родителями и предупреждает их об опасности.",
+      "url": "https://hdrezka.ag/films/thriller/26935-a-teper-ne-smotri-1973.html",
+      "tags": ["хочу кричать"]
+    },
+    {
+      "id": 14,
+      "name": "The Wicker Man",
+      "year": 1973,
+      "image": "https://opis-cdn.tinkoffjournal.ru/mercury/14-best-horror-movies.s6v86p8mff8v..jpg?preset=image_570w_2x",
+      "description": "Инспектор Нил Хоуи прилетает на небольшой уединенный остров Саммерайл неподалеку от берегов Шотландии. Мужчине предстоит расследовать исчезновение местной девочки-подростка. Однако многие на острове уверяют, что ни о какой девочке никогда не слышали. Об этом даже заявляет мать пропавшей. Другие намекают на то, что ребенок уже мертв. Позже Нил становится свидетелем древних кельтских языческих ритуалов.",
+      "url": "https://hdrezka.ag/films/thriller/8505-pletenyy-chelovek-1973.html",
+      "tags": ["хочу кричать"]
+    },
+    {
+      "id": 15,
+      "name": "The Texas Chain Saw Massacre",
+      "year": 1974,
+      "image": "https://opis-cdn.tinkoffjournal.ru/mercury/15-best-horror-movies.kv0t1otvoezx..jpg?preset=image_570w_2x",
+      "description": "Девушка Салли и ее брат Франклин узнают, что банда вандалов громит кладбище в Техасе, где похоронен их дедушка. Ребята собирают друзей и отправляются в путешествие. По пути Салли и Франклин навещают ферму родственника. Молодые люди не подозревают, что по соседству проживает семья каннибалов.",
+      "url": "https://hdrezka.ag/films/horror/22161-tehasskaya-reznya-benzopiloy-1974.html",
+      "tags": ["хочу кричать"]
+    },
+    {
+      "id": 16,
+      "name": "The Omen",
+      "year": 1976,
+      "image": "https://opis-cdn.tinkoffjournal.ru/mercury/16-best-horror-movies.wace76qdf3zm..jpg?preset=image_570w_2x",
+      "description": "После смерти новорожденного ребенка дипломат Роберт Торн усыновляет мальчика. Спустя пять лет вся семья переезжает в Лондон, где начинают происходить странности. Няня юного Дэмиена совершает самоубийство, а священник пытается доказать приемному отцу, что он воспитывает самого дьявола.",
+      "url": "https://hdrezka.ag/films/horror/4715-omen-1976.html",
+      "tags": ["хочу кричать"]
+    },
+    {
+      "id": 17,
+      "name": "Carrie",
+      "year": 1976,
+      "image": "https://opis-cdn.tinkoffjournal.ru/mercury/17-best-horror-movies.3uojtumly9dl..jpg?preset=image_570w_2x",
+      "description": "Ученица выпускного класса Кэрри сталкивается с травлей. В школе над ней издеваются одноклассники, а дома - терроризирует фанатично верующая мать. Кэрри становится замкнутой и неуверенной в себе. При этом девушка обладает способностями к телекинезу.",
+      "url": "https://hdrezka.ag/films/horror/6684-kerri-1976.html",
+      "tags": ["хочу кричать"]
+    },
+    {
+      "id": 18,
+      "name": "Hausu",
+      "year": 1977,
+      "image": "https://opis-cdn.tinkoffjournal.ru/mercury/18-best-horror-movies.rxijrnx4km9f..jpg?preset=image_570w_2x",
+      "description": "Семь девушек отправляются навестить тетю одной из своих подруг. Но дом женщины оказывается демоном и атакует непрошеных гостей.",
+      "url": "https://hdrezka.ag/films/horror/54399-dom-1977.html",
+      "tags": ["хочу кричать"]
+    },
+    {
+      "id": 19,
+      "name": "Jaws",
+      "year": 1977,
+      "image": "https://opis-cdn.tinkoffjournal.ru/mercury/19-best-horror-movies.sjdyxxfepwdg..jpg?preset=image_570w_2x",
+      "description": "Летом 1974 года на курортном острове Эмити в Новой Англии происходит трагедия. Несколько отдыхающих погибают от гигантской белой акулы. Шериф Мартин Броуди хочет закрыть все пляжи, но мэр и владельцы прибрежных гостиниц категорически против. Тогда стражу порядка вместе с океанологом Мэттом Хупером и охотником на акул Куинтом приходится самостоятельно ловить ненасытного хищника.",
+      "url": "https://hdrezka.ag/films/horror/7579-chelyusti-1975.html",
+      "tags": ["хочу кричать"]
+    },
+    {
+      "id": 20,
+      "name": "Eraserhead",
+      "year": 1977,
+      "image": "https://opis-cdn.tinkoffjournal.ru/mercury/20-best-horror-movies.e3t3rsqdnvk9..jpg?preset=image_570w_2x",
+      "description": "Мужчина по имени Генри живет в плохо обставленной квартире в блеклом индустриальном городе. Однажды его приглашает домой подруга, с которой герой не виделся уже полгода. Оказывается, она родила от него недоношенного ребенка, который больше похож на огромного головастика. Теперь Генри придется воспитывать маленького кричащего мутанта.",
+      "url": "https://hdrezka.ag/films/horror/12743-golova-lastik-1977.html",
+      "tags": ["хочу кричать"]
+    }
+  ],
+
+
+  "action": [
+    {
+      "id": 1,
+      "name": "The General",
+      "year": 1926,
+      "image": "https://opis-cdn.tinkoffjournal.ru/mercury/best-action-movies-ever_01.mctluogczall..jpg?preset=image_570w_2x",
+      "description": "Машинист поезда «Генерал» Джонни Грэй узнает, что в США началась Гражданская война. Чтобы впечатлить возлюбленную Аннабель, он записывается добровольцем на фронт. Но героя не принимают - машинисты нужнее в тылу. Из-за этого знакомые считают его трусом, а девушка теряет к Джонни интерес. Однако когда армия Севера крадет «Генерала», и Грэй в одиночку отправляется вслед за угонщиками. Ситуацию осложняет то, что внутри поезда осталась Аннабель.",
+      "url": "https://hdrezka.ag/films/action/21642-parovoz-general-1926.html",
+      "tags": ["хочу эпика"]
+    },
+    {
+      "id": 2,
+      "name": "Stagecoach",
+      "year": 1939,
+      "image": "https://opis-cdn.tinkoffjournal.ru/mercury/best-action-movies-ever_02.qhsg67h370yg..jpg?preset=image_570w_2x",
+      "description": "На дилижанс садится колоритная компания. Среди них: пьяница-врач, секс-работница, шулер, банкир, полицейский и разыскиваемый преступник. Проблема в том, что их путь пролегает через территорию агрессивного племени коренных американцев.",
+      "url": "https://hdrezka.ag/films/adventures/2661-dilizhans-1939.html",
+      "tags": ["хочу эпика"]
+    },
+    {
+      "id": 3,
+      "name": "Seven Samurai",
+      "year": 1954,
+      "image": "https://opis-cdn.tinkoffjournal.ru/mercury/best-action-movies-ever_03.5wbljo40nw4k..jpg?preset=image_570w_2x",
+      "description": "Япония 16 века. Разбойники ждут, когда в одной из деревень взойдет ячмень - тогда они отберут урожай. Крестьяне понимают, что сами не победят бандитов, и отправляются в город и пытаются убедить самураев или ронинов защитить деревню в обмен на еду. Соглашается лишь старый мастер, который привлекает на охрану деревни еще нескольких воинов.",
+      "url": "https://hdrezka.ag/films/adventures/1362-sem-samuraev-1954.html",
+      "tags": ["хочу эпика"]
+    },  
+    {
+      "id": 4,
+      "name": "Goldfinger",
+      "year": 1964,
+      "image": "https://opis-cdn.tinkoffjournal.ru/mercury/best-action-movies-ever_04.uj1mvtb5wavv..jpg?preset=image_570w_2x",
+      "description": "Агент Джеймс Бонд встает на пути очередного международного преступника - хитрого Голдфингера, который планирует нападение на Форт-Нокс, где находится золотой запас США. И только Бонд может его остановить.",
+      "url": "https://hdrezka.ag/films/action/5198-goldfinger-1964.html",
+      "tags": ["хочу эпика"]
+    },
+    {
+      "id": 5,
+      "name": "The Good, the Bad and the Ugly",
+      "year": 1966,
+      "image": "https://opis-cdn.tinkoffjournal.ru/mercury/best-action-movies-ever_05.4i0omb3bvfdd..jpg?preset=image_570w_2x",
+      "description": "1862 год, разгар Гражданской войны в США. Трое бандитов независимо друг от друга узнают о потерянном золоте конфедератов, и решают его найти. Ни один из преступников не собирается уступать конкурентам.",
+      "url": "https://hdrezka.ag/films/adventures/1184-horoshiy-plohoy-zloy-1966.html",
+      "tags": ["хочу эпика"]
+    },
+    {
+      "id": 6,
+      "name": "Enter the Dragon",
+      "year": 1973,
+      "image": "https://opis-cdn.tinkoffjournal.ru/mercury/best-action-movies-ever_06.9cckuokiizsl..jpg?preset=image_570w_2x",
+      "description": "Мастер боевых искусств Ли по просьбе полиции отправляется на таинственный турнир. Его проводит некий Хан - знаток рукопашных практик и разыскиваемый преступник. Герой должен найти улики против организатора и победить множество могущественных соперников.",
+      "url": "https://hdrezka.ag/films/action/4006-vyhod-drakona-1973.html",
+      "tags": ["хочу эпика"]
+    },
+    {
+      "id": 7,
+      "name": "Raiders of the Lost Ark",
+      "year": 1981,
+      "image": "https://opis-cdn.tinkoffjournal.ru/mercury/best-action-movies-ever_07.u9dfm7vyjcig..jpg?preset=image_570w_2x",
+      "description": "Археолог доктор Джонс отправляется на поиски библейского артефакта - Ковчега Завета. Герой должен найти реликвию раньше, чем солдаты нацистской Германии, ведь Гитлер планирует использовать Ковчег для своих целей.",
+      "url": "https://hdrezka.ag/films/action/1303-indiana-dzhons-v-poiskah-utrachennogo-kovchega-1981.html",
+      "tags": ["хочу эпика"]
+    },
+    {
+      "id": 8,
+      "name": "First Blood",
+      "year": 1982,
+      "image": "https://opis-cdn.tinkoffjournal.ru/mercury/best-action-movies-ever_08.xhbxihekru39..jpg?preset=image_570w_2x",
+      "description": "Ветеран войны во Вьетнаме Джон Рэмбо путешествует по стране в поисках боевых товарищей и попадает в тихий провинциальный город. Местный шериф принимает бывшего солдата за бродягу и арестовывает его. Джон сбегает из тюрьмы и сражается с полицейскими.",
+      "url": "https://hdrezka.ag/films/action/6756-rembo-pervaya-krov-1982.html",
+      "tags": ["хочу эпика"]
+    },
+    {
+      "id": 9,
+      "name": "Police Story",
+      "year": 1985,
+      "image": "https://opis-cdn.tinkoffjournal.ru/mercury/best-action-movies-ever_09.d3vzjojo1lca..jpg?preset=image_570w_2x",
+      "description": "Власти ловят опасного мафиози Чи благодаря героизму полицейского по имени Кевин. Герою поручают охранять секретаршу преступника - она должна появиться в суде как главная свидетельница, но девушка исчезает. Чтобы доказать свою непричастность, Кевину нужно во что бы то ни стало ее найти.",
+      "url": "https://hdrezka.ag/films/action/6802-policeyskaya-istoriya-1985.html",
+      "tags": ["хочу эпика"]
+    },
+    {
+      "id": 10,
+      "name": "Highlander",
+      "year": 1986,
+      "image": "https://opis-cdn.tinkoffjournal.ru/mercury/best-action-movies-ever_10.bqzdfkgo0nny..jpg?preset=image_570w_2x",
+      "description": "В 16 веке шотландец Коннор Маклауд погибает в битве, но позже воскресает и встречает испанца Рамиреса. Тот объясняет Маклауду, что они оба - бессмертные воины. Победить их можно, только отрубив голову. Главным врагом Маклауда становится жестокий и кровожадный Курган - еще один бессмертный воин. Их сражение продолжается вплоть до конца 20 века.",
+      "url": "https://hdrezka.ag/films/fantasy/5166-gorec-1986.html",
+      "tags": ["хочу эпика"]
+    },
+    {
+      "id": 11,
+      "name": "Eastern Condors",
+      "year": 1987,
+      "image": "https://opis-cdn.tinkoffjournal.ru/mercury/best-action-movies-ever_11.qfyidfiefmya..jpg?preset=image_570w_2x",
+      "description": "После вывода американских войск из Вьетнама в стране остались секретные бункеры со стратегическим оружием. Гонконгскому лейтенанту Ламу поручили проникнуть на вражескую территорию и уничтожить запасы одного из хранилищ. В помощь ему дают 12 китайских заключенных. Если миссия закончится успешно, то каждый получит помилование, 200 тысяч долларов и американское гражданство.",
+      "url": "https://hdrezka.ag/films/action/54446-vostochnye-kondory-1987.html",
+      "tags": ["хочу эпика"]
+    },
+    {
+      "id": 12,
+      "name": "Predator",
+      "year": 1987,
+      "image": "https://opis-cdn.tinkoffjournal.ru/mercury/best-action-movies-ever_12.ppypdrcyj8ve..jpg?preset=image_570w_2x",
+      "description": "В джунглях Центральной Америки падает вертолет с важным для США членом местного правительства. На спасательную миссию отправляют наемников во главе с Аланом «Датчем» Шеффером. Солдаты думают, что будут сражаться с повстанцами, но вместо этого попадают в ловушку кровожадного пришельца.",
+      "url": "https://hdrezka.ag/films/action/1452-hischnik-1987.html",
+      "tags": ["хочу эпика"]
+    },
+    {
+      "id": 13,
+      "name": "RoboCop",
+      "year": 1987,
+      "image": "https://opis-cdn.tinkoffjournal.ru/mercury/best-action-movies-ever_13.z1vfh2xlstrd..jpg?preset=image_570w_2x",
+      "description": "Корпорация Omni Consumer Products мечтает превратить Детройт в город будущего, но сначала им нужно избавиться от преступности. Компания создает идеального блюстителя закона - человека в теле робота. Первым киборгом становится новичок отдела полиции Алекс Мерфи. Его застрелили грабители банка.",
+      "url": "https://hdrezka.ag/films/action/1560-robokop-1987.html",
+      "tags": ["хочу эпика"]
+    },
+    {
+      "id": 14,
+      "name": "Lethal Weapon",
+      "year": 1987,
+      "image": "https://opis-cdn.tinkoffjournal.ru/mercury/best-action-movies-ever_14.f7gvog4jbpov..jpg?preset=image_570w_2x",
+      "description": "После смерти жены сержант полиции Мартин Риггс размышляет о самоубийстве. Ему не хватает духу застрелиться, поэтому на полевых заданиях Мартин ведет себя безрассудно. Начальник не верит в депрессивный эпизод подчиненного, поэтому назначает ему партнера - опытного сержанта Роджера Мерто. Новый коллега быстро понимает, что Риггс и правда опасен - не только для самого себя, но и для окружающих. Однако расследует вместе с ним таинственное дело о суициде.",
+      "url": "https://hdrezka.ag/films/action/5218-smertelnoe-oruzhie-1987.html",
+      "tags": ["хочу эпика"]
+    },
+    {
+      "id": 15,
+      "name": "Die Hard",
+      "year": 1988,
+      "image": "https://opis-cdn.tinkoffjournal.ru/mercury/best-action-movies-ever_15.zk2scibz1efg..jpg?preset=image_570w_2x",
+      "description": "В небоскребе банда террористов берет в заложники несколько десятков людей. Среди пленных - жена простого полицейского Джона Макклейна, который и сам оказывается заперт в высотке с преступниками. Единственный шанс выйти - победить всех врагов.",
+      "url": "https://hdrezka.ag/films/action/858-krepkiy-oreshek-1988.html",
+      "tags": ["хочу эпика"]
+    },
+    {
+      "id": 16,
+      "name": "Once Upon a Time in China",
+      "year": 1991,
+      "image": "https://opis-cdn.tinkoffjournal.ru/mercury/best-action-movies-ever_16.7kh6tcr5jzpq..jpg?preset=image_570w_2x",
+      "description": "В конце 19 века в Китай прибывает все больше иностранцев. Они зазывают местных жителей на заработки в Америку, но на деле крадут и продают их в рабство. В плен попадает возлюбленная известного мастера боевых искусств Вон Фэйхуна. Герой отправляется мстить.",
+      "url": "https://hdrezka.ag/films/action/6960-odnazhdy-v-kitae-1991.html",
+      "tags": ["хочу эпика"]
+    },
+    {
+      "id": 17,
+      "name": "Point Break",
+      "year": 1991,
+      "image": "https://opis-cdn.tinkoffjournal.ru/mercury/best-action-movies-ever_17.dmpyic9oexq6..jpg?preset=image_570w_2x",
+      "description": "Молодой агент ФБР Джонни Юта внедряется в группу воров-серферов. Они грабят банки Лос-Анджелеса в масках бывших президентов США. Мужчина знакомится с одним из подозреваемых по имени Бодхи. Герои неожиданно находят общий язык.",
+      "url": "https://hdrezka.ag/films/action/5456-na-grebne-volny-1991.html",
+      "tags": ["хочу эпика"]
+    },
+    {
+      "id": 18,
+      "name": "Terminator 2: Judgment Day",
+      "year": 1991,
+      "image": "https://opis-cdn.tinkoffjournal.ru/mercury/best-action-movies-ever_18.s8qvywcocja8..jpg?preset=image_570w_2x",
+      "description": "1995 год. Через 10 лет после встречи с терминатором Сара Коннор содержится в психиатрической больнице, а ее сын Джон растет в приемной семье. Сара твердит окружающим об опасном роботе-убийце из будущего и постоянно видит сон о наступлении апокалипсиса. В этот день Скайнет запустит ракеты в сторону России и начнет ядерную войну. Пророчество постепенно сбывается. На охоту за Джоном Коннором выходит улучшенная версия киборга Т-1000. Мальчика защищает перепрограммированный Т-800 - его отправил повзрослевший Коннор из будущего.",
+      "url": "https://hdrezka.ag/films/fiction/1395-terminator-2-sudnyy-den-1991.html",
+      "tags": ["хочу эпика"]
+    },
+    {
+      "id": 19,
+      "name": "Lat sau san taam",
+      "year": 1992,
+      "image": "https://opis-cdn.tinkoffjournal.ru/mercury/best-action-movies-ever_19.7bv8as6xylqg..jpg?preset=image_570w_2x",
+      "description": "Полицейский по прозвищу Текила теряет напарника в перестрелке с бандитами. После этого он собирается в одиночку сражаться с гонконгской преступностью. Текила нападает на банду жестокого Джонни Вонга и натыкается на Тони. Тот - полицейский под прикрытием, которому пришлось убить своего босса и перейти под крыло Вонга. Герои объединяются, чтобы покончить с мафией.",
+      "url": "https://hdrezka.ag/films/action/4867-kruto-svarennye-1992.html",
+      "tags": ["хочу эпика"]
+    },
+    {
+      "id": 20,
+      "name": "True Lies",
+      "year": 1994,
+      "image": "https://opis-cdn.tinkoffjournal.ru/mercury/best-action-movies-ever_20.1uq8yn1nxtma..jpg?preset=image_570w_2x",
+      "description": "Гарри Таскер ведет двойную жизнь. Дома он добропорядочный гражданин и компьютерный гик. В командировках - шпион и главный враг террористов. Его жена Хелен очень устала от скучной супружеской жизни и разъездов мужа. Однажды она едва не изменяет ему с другим мужчиной, который выдает себя за тайного агента. Гарри в ответ решает разыграть для Хелен ролевую игру про шпионов. Только его планы нарушают настоящие террористы.",
+      "url": "https://hdrezka.ag/films/action/6464-pravdivaya-lozh-1994.html",
+      "tags": ["хочу эпика"]
+    }
+  ]
+}
